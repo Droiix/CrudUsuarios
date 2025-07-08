@@ -1,0 +1,5 @@
+com.example.crudusuarios.test.app-core-1.6.1-0 /Users/josiasperez/.gradle/caches/8.11.1/transforms/8593bc6258e2040e3edfd6ae9f4f1346/transformed/core-1.6.1/res
+com.example.crudusuarios.test.app-androidTest-1 /Users/josiasperez/AndroidStudioProjects/CrudUsuarios/app/build/generated/res/resValues/androidTest/debug
+com.example.crudusuarios.test.app-mergeDebugAndroidTestResources-2 /Users/josiasperez/AndroidStudioProjects/CrudUsuarios/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+com.example.crudusuarios.test.app-mergeDebugAndroidTestResources-3 /Users/josiasperez/AndroidStudioProjects/CrudUsuarios/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+com.example.crudusuarios.test.app-debugAndroidTest-4 /Users/josiasperez/AndroidStudioProjects/CrudUsuarios/app/build/intermediates/merged_res/debugAndroidTest/mergeDebugAndroidTestResources
