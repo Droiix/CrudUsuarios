@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/josiasperez/AndroidStudioProjects/CrudUsuarios/app/src/main/AndroidManifest.xml:2:1-26:12
-INJECTED from /Users/josiasperez/AndroidStudioProjects/CrudUsuarios/app/src/main/AndroidManifest.xml:2:1-26:12
-INJECTED from /Users/josiasperez/AndroidStudioProjects/CrudUsuarios/app/src/main/AndroidManifest.xml:2:1-26:12
-INJECTED from /Users/josiasperez/AndroidStudioProjects/CrudUsuarios/app/src/main/AndroidManifest.xml:2:1-26:12
+ADDED from /Users/josiasperez/AndroidStudioProjects/CrudUsuarios/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/josiasperez/AndroidStudioProjects/CrudUsuarios/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/josiasperez/AndroidStudioProjects/CrudUsuarios/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/josiasperez/AndroidStudioProjects/CrudUsuarios/app/src/main/AndroidManifest.xml:2:1-30:12
 MERGED from [com.google.android.material:material:1.12.0] /Users/josiasperez/.gradle/caches/8.11.1/transforms/6ec0d369c48c4ac81811a43c6f1bc54a/transformed/material-1.12.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] /Users/josiasperez/.gradle/caches/8.11.1/transforms/926ec2ede34a258a5048275d76b40d41/transformed/constraintlayout-2.2.1/AndroidManifest.xml:2:1-9:12
 MERGED from [androidx.appcompat:appcompat-resources:1.7.1] /Users/josiasperez/.gradle/caches/8.11.1/transforms/7c4a130f4210328137bb618eff0b78cf/transformed/appcompat-resources-1.7.1/AndroidManifest.xml:2:1-7:12
@@ -57,8 +57,8 @@ MERGED from [androidx.annotation:annotation-experimental:1.4.0] /Users/josiasper
 	xmlns:android
 		ADDED from /Users/josiasperez/AndroidStudioProjects/CrudUsuarios/app/src/main/AndroidManifest.xml:2:11-69
 application
-ADDED from /Users/josiasperez/AndroidStudioProjects/CrudUsuarios/app/src/main/AndroidManifest.xml:5:5-24:19
-INJECTED from /Users/josiasperez/AndroidStudioProjects/CrudUsuarios/app/src/main/AndroidManifest.xml:5:5-24:19
+ADDED from /Users/josiasperez/AndroidStudioProjects/CrudUsuarios/app/src/main/AndroidManifest.xml:5:5-28:19
+INJECTED from /Users/josiasperez/AndroidStudioProjects/CrudUsuarios/app/src/main/AndroidManifest.xml:5:5-28:19
 MERGED from [com.google.android.material:material:1.12.0] /Users/josiasperez/.gradle/caches/8.11.1/transforms/6ec0d369c48c4ac81811a43c6f1bc54a/transformed/material-1.12.0/AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.12.0] /Users/josiasperez/.gradle/caches/8.11.1/transforms/6ec0d369c48c4ac81811a43c6f1bc54a/transformed/material-1.12.0/AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] /Users/josiasperez/.gradle/caches/8.11.1/transforms/926ec2ede34a258a5048275d76b40d41/transformed/constraintlayout-2.2.1/AndroidManifest.xml:7:5-20
@@ -97,22 +97,28 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/josi
 		ADDED from /Users/josiasperez/AndroidStudioProjects/CrudUsuarios/app/src/main/AndroidManifest.xml:13:9-50
 	android:dataExtractionRules
 		ADDED from /Users/josiasperez/AndroidStudioProjects/CrudUsuarios/app/src/main/AndroidManifest.xml:7:9-65
-activity#com.example.crudusuarios.MainActivity
-ADDED from /Users/josiasperez/AndroidStudioProjects/CrudUsuarios/app/src/main/AndroidManifest.xml:15:9-23:20
+activity#com.example.crudusuarios.ListaUsuariosActivity
+ADDED from /Users/josiasperez/AndroidStudioProjects/CrudUsuarios/app/src/main/AndroidManifest.xml:15:9-18:20
 	android:exported
-		ADDED from /Users/josiasperez/AndroidStudioProjects/CrudUsuarios/app/src/main/AndroidManifest.xml:17:13-36
+		ADDED from /Users/josiasperez/AndroidStudioProjects/CrudUsuarios/app/src/main/AndroidManifest.xml:17:9-33
 	android:name
-		ADDED from /Users/josiasperez/AndroidStudioProjects/CrudUsuarios/app/src/main/AndroidManifest.xml:16:13-41
+		ADDED from /Users/josiasperez/AndroidStudioProjects/CrudUsuarios/app/src/main/AndroidManifest.xml:16:9-46
+activity#com.example.crudusuarios.MainActivity
+ADDED from /Users/josiasperez/AndroidStudioProjects/CrudUsuarios/app/src/main/AndroidManifest.xml:19:9-27:20
+	android:exported
+		ADDED from /Users/josiasperez/AndroidStudioProjects/CrudUsuarios/app/src/main/AndroidManifest.xml:21:13-36
+	android:name
+		ADDED from /Users/josiasperez/AndroidStudioProjects/CrudUsuarios/app/src/main/AndroidManifest.xml:20:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/josiasperez/AndroidStudioProjects/CrudUsuarios/app/src/main/AndroidManifest.xml:18:13-22:29
+ADDED from /Users/josiasperez/AndroidStudioProjects/CrudUsuarios/app/src/main/AndroidManifest.xml:22:13-26:29
 action#android.intent.action.MAIN
-ADDED from /Users/josiasperez/AndroidStudioProjects/CrudUsuarios/app/src/main/AndroidManifest.xml:19:17-69
+ADDED from /Users/josiasperez/AndroidStudioProjects/CrudUsuarios/app/src/main/AndroidManifest.xml:23:17-69
 	android:name
-		ADDED from /Users/josiasperez/AndroidStudioProjects/CrudUsuarios/app/src/main/AndroidManifest.xml:19:25-66
+		ADDED from /Users/josiasperez/AndroidStudioProjects/CrudUsuarios/app/src/main/AndroidManifest.xml:23:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/josiasperez/AndroidStudioProjects/CrudUsuarios/app/src/main/AndroidManifest.xml:21:17-77
+ADDED from /Users/josiasperez/AndroidStudioProjects/CrudUsuarios/app/src/main/AndroidManifest.xml:25:17-77
 	android:name
-		ADDED from /Users/josiasperez/AndroidStudioProjects/CrudUsuarios/app/src/main/AndroidManifest.xml:21:27-74
+		ADDED from /Users/josiasperez/AndroidStudioProjects/CrudUsuarios/app/src/main/AndroidManifest.xml:25:27-74
 uses-sdk
 INJECTED from /Users/josiasperez/AndroidStudioProjects/CrudUsuarios/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/josiasperez/AndroidStudioProjects/CrudUsuarios/app/src/main/AndroidManifest.xml

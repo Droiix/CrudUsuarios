@@ -10,7 +10,7 @@ id btnGuardar
 id btnVerUsuarios
 id etEmail
 id etNombre
-id recyclerViewUsuarios
+id listUsuarios
 id tvEmailItem
 id tvNombreItem
 layout activity_lista_usuarios
